@@ -88,7 +88,7 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 - [neon_utterance_cancel_plugin](https://github.com/NeonGeckoCom/neon_utterance_cancel_plugin) - pre-intent action
 - [neon_utterance_translator_plugin](https://github.com/NeonGeckoCom/neon_utterance_translator_plugin) - pre-intent action
 - [neon_utterance_normalizer_plugin](https://github.com/NeonGeckoCom/neon_utterance_normalizer_plugin) - pre-intent action
-- [neon_utterance_pronomial_plugin](neon_utterance_pronomial_plugin) - coreference resolution
+- [neon_utterance_pronomial_plugin](neon_utterance_pronomial_plugin) - pre-intent action (coreference resolution)
 - [neon_utterance_RAKE_plugin](https://github.com/NeonGeckoCom/neon_utterance_RAKE_plugin) - inject context (keyword extraction)
 - [neon_utterance_YAKE_plugin](https://github.com/NeonGeckoCom/neon_utterance_YAKE_plugin) - inject context (keyword extraction)
 - [neon_utterance_KeyBERT_plugin](https://github.com/NeonGeckoCom/neon_utterance_KeyBERT_plugin) - inject context (keyword extraction)
@@ -102,7 +102,7 @@ Plugins written against mycroft-core should be listed in [awesome-mycroft-commun
 
 
 ##### Hosted
-- [neon_utterance_neuralcorefdemo_plugin](https://github.com/NeonGeckoCom/neon_utterance_neuralcorefdemo_plugin) - coreference resolution
+- [neon_utterance_neuralcorefdemo_plugin](https://github.com/NeonGeckoCom/neon_utterance_neuralcorefdemo_plugin) - pre-intent action (coreference resolution)
 
 
 ### Audio Transformers
